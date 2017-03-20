@@ -23,7 +23,7 @@ Channel类：神经元之间的信息传输通道。
 
 1、创建WisdomModel对象
 
-let model = WisdomModel()
+    let model = WisdomModel()
 
 2、设计输入层结构
 
